@@ -70,10 +70,31 @@ module.exports = {
         anyuser: "*Aucun utilisateurs*",
         listofuser: "Liste des utilisateurs",
         rolememberdescription: "Permet de voir la liste de tous les utilisateurs appartenant à un rôle.",
+        servernickname: "Surnom de serveur",
+        serveroverview: "Profil de serveur",
+        serveravatar: "Avatar du serveur",
+        here: "ici",
+        aucun: "Aucun",
+        playof: "Joue à",
+        listening: "Écoute",
+        watching: "Regarde",
+        displayname: "Nom d'affichage",
+        creationaccount: "Création du compte",
+        activity: "Activité", 
+        datedarrivee: "Date d'arrivée",
+        yesbooster: "Oui (depuis le",
+        userinfodescription: "Permet de voir les informations d'un utilisateurs",
+        member: "Membres",
+        online: "En ligne",
+        invoice: "En vocal",
+        noguildbanner: "Le serveur que vous avez indiqué ne comporte pas de bannière !",
+        noguildbannerurl: "L'url que vous avez indiqué n'existe pas !",
+        noguildpic: "Le serveur que vous avez indiqué ne comporte pas d'avatar !",
 
         cherchuser: "\`•\` Veuillez indiquer un utilisateur sûr le serveur !",
         dontauthorize: "\`•\` Tu n'es pas autorisé à interagir sur ces boutons !",
         anyrole: " Veuillez indiquer un rôle valide !",
+        nouser: "\`•\` L'utilisateur n'a pas été trouvé !",
 
         gifhelpmenu: "https://media.discordapp.net/attachments/1170288145871413318/1211775227185598595/gifhelpfr.gif?ex=65ef6c9f&is=65dcf79f&hm=420a6788a02fed7a7063688310820c72aedefc6f3399399d76307f8c6ddc4939&=&width=1200&height=656"
     },
@@ -148,13 +169,36 @@ module.exports = {
         anyuser: "*No users*",
         listofuser: "List of users",
         rolememberdescription: "Allows you to see the list of all users belonging to a role.",
+        servernickname: "Server nickname",
+        serveroverview: "Server profiles",
+        serveravatar: "Server avatar",
+        here: "here",
+        aucun: "None",
+        playof: "Playing",
+        listening: "Listening",
+        watching: "Watching",
+        displayname: "Display name",
+        creationaccount: "Creation of account",
+        activity: "Activity",
+        datedarrivee: "Arrival date",
+        yesbooster: "Yes (since",
+        userinfodescription: "Allows you to see user information",   
+        member: "Members",
+        online: "Online",
+        invoice: "In voice",
+        noguildbanner: "The guild you specified does not have a banner!",
+        noguildbannerurl: "The URL you specified does not exist!",
+        noguildpic: "The guild you specified does not have a avatar!",
 
         cherchuser: "\`•\` Please specify a safe user on the server !",
         dontauthorize: "\`•\` You are not allowed to interact with these buttons !",
         anyrole: "Please enter a valid role!",
+        nouser: "\`•\` The user was not found!",
 
         gifhelpmenu: "https://media.discordapp.net/attachments/1170288145871413318/1211774298667352084/gifhelpen.gif?ex=65ef6bc2&is=65dcf6c2&hm=f3a432f9c30eba2c260c71a374b33feec6b1480cb011e4be4e4b28f0a675499d&=&width=1200&height=656"
     }
 }
 
-Dernière modification: 28 février 2024 18:43
+//require("../../gestionbot/langtext")[req[0].lang]
+
+Dernière modification: 23 mars 2024 11:24
